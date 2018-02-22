@@ -1,0 +1,4 @@
+db:
+  production:
+    adapter:  mysql2
+    host:     localhost
